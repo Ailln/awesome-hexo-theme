@@ -9,7 +9,7 @@
 
 See it in website [HexoThe.me](https://hexothe.me).
 
-## 1 [Icarus](https://github.com/ppoffice/hexo-theme-icarus)
+## 1 Icarus
 
 ![](https://img.shields.io/github/stars/ppoffice/hexo-theme-icarus.svg)
 
@@ -25,7 +25,7 @@ A simple, delicate, and modern theme for the static site generator Hexo.
 
 <br>
 
-## 2 [Next](https://github.com/theme-next/hexo-theme-next)
+## 2 Next
 
 ![](https://img.shields.io/github/stars/theme-next/hexo-theme-next.svg)
 
@@ -41,7 +41,7 @@ A simple, delicate, and modern theme for the static site generator Hexo.
 
 <br>
 
-## 3 [Material](https://github.com/viosey/hexo-theme-material)
+## 3 Material
 
 ![](https://img.shields.io/github/stars/viosey/hexo-theme-material.svg)
 
@@ -57,7 +57,7 @@ An elegant, Pure & Material Design Theme for Hexo.
 
 <br>
 
-## 4 [Indigo](https://github.com/yscoder/hexo-theme-indigo)
+## 4 Indigo
 
 ![](https://img.shields.io/github/stars/yscoder/hexo-theme-indigo.svg)
 
@@ -73,7 +73,7 @@ A Material-Design-Style Hexo Theme.
 
 <br>
 
-## 5 [Cactus](https://github.com/probberechts/hexo-theme-cactus)
+## 5 Cactus
 
 ![](https://img.shields.io/github/stars/probberechts/hexo-theme-cactus.svg)
 
@@ -89,7 +89,7 @@ A responsive, clean and simple Hexo theme for a personal website.
 
 <br>
 
-## 6 [Matery](https://github.com/blinkfox/hexo-theme-matery)
+## 6 Matery
 
 ![](https://img.shields.io/github/stars/blinkfox/hexo-theme-matery.svg)
 
@@ -105,7 +105,7 @@ This is a Hexo blog theme with Material Design and responsive design.
 
 <br>
 
-## 7 [Yilia](https://github.com/litten/hexo-theme-yilia)
+## 7 Yilia
 
 ![](https://img.shields.io/github/stars/litten/hexo-theme-yilia.svg)
 
@@ -121,7 +121,7 @@ A simple and elegant theme for hexo.
 
 <br>
 
-## 8 [Mellow](https://github.com/codefine/hexo-theme-mellow)
+## 8 Mellow
 
 ![](https://img.shields.io/github/stars/codefine/hexo-theme-mellow.svg)
 
@@ -137,7 +137,7 @@ A Material-Design-Style Hexo Theme.
 
 <br>
 
-## 9 [Archer](https://github.com/fi3ework/hexo-theme-archer)
+## 9 Archer
 
 ![](https://img.shields.io/github/stars/fi3ework/hexo-theme-archer.svg)
 
@@ -153,7 +153,7 @@ A smart and modern theme for Hexo.
 
 <br>
 
-## 10 [Tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
+## 10 Tranquilpeak
 
 ![](https://img.shields.io/github/stars/LouisBarranqueiro/hexo-theme-tranquilpeak.svg)
 

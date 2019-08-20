@@ -7,9 +7,9 @@
 
 🌟根据 Github 影响力和实际使用体验筛选出 10 个精致的 Hexo 主题。
 
-在网站 [HexoThe.me](https://hexothe.me) 中阅读。
+去网站 [HexoThe.me](https://hexothe.me) 中阅读。
 
-## 1 [Icarus](https://github.com/ppoffice/hexo-theme-icarus)
+## 1 Icarus
 
 ![](https://img.shields.io/github/stars/ppoffice/hexo-theme-icarus.svg)
 
@@ -25,7 +25,7 @@
 
 <br>
 
-## 2 [Next](https://github.com/theme-next/hexo-theme-next)
+## 2 Next
 
 ![](https://img.shields.io/github/stars/theme-next/hexo-theme-next.svg)
 
@@ -41,7 +41,7 @@
 
 <br>
 
-## 3 [Material](https://github.com/viosey/hexo-theme-material)
+## 3 Material
 
 ![](https://img.shields.io/github/stars/viosey/hexo-theme-material.svg)
 
@@ -57,7 +57,7 @@
 
 <br>
 
-## 4 [Indigo](https://github.com/yscoder/hexo-theme-indigo)
+## 4 Indigo
 
 ![](https://img.shields.io/github/stars/yscoder/hexo-theme-indigo.svg)
 
@@ -73,7 +73,7 @@
 
 <br>
 
-## 5 [Cactus](https://github.com/probberechts/hexo-theme-cactus)
+## 5 Cactus
 
 ![](https://img.shields.io/github/stars/probberechts/hexo-theme-cactus.svg)
 
@@ -89,7 +89,7 @@
 
 <br>
 
-## 6 [Matery](https://github.com/blinkfox/hexo-theme-matery)
+## 6 Matery
 
 ![](https://img.shields.io/github/stars/blinkfox/hexo-theme-matery.svg)
 
@@ -105,7 +105,7 @@
 
 <br>
 
-## 7 [Yilia](https://github.com/litten/hexo-theme-yilia)
+## 7 Yilia
 
 ![](https://img.shields.io/github/stars/litten/hexo-theme-yilia.svg)
 
@@ -121,7 +121,7 @@
 
 <br>
 
-## 8 [Mellow](https://github.com/codefine/hexo-theme-mellow)
+## 8 Mellow
 
 ![](https://img.shields.io/github/stars/codefine/hexo-theme-mellow.svg)
 
@@ -137,7 +137,7 @@ Material Design 风格的 Hexo 主题。
 
 <br>
 
-## 9 [Archer](https://github.com/fi3ework/hexo-theme-archer)
+## 9 Archer
 
 ![](https://img.shields.io/github/stars/fi3ework/hexo-theme-archer.svg)
 
@@ -153,7 +153,7 @@ Material Design 风格的 Hexo 主题。
 
 <br>
 
-## 10 [Tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
+## 10 Tranquilpeak
 
 ![](https://img.shields.io/github/stars/LouisBarranqueiro/hexo-theme-tranquilpeak.svg)
 
