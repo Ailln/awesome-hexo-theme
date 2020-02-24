@@ -21,7 +21,7 @@ A simple, delicate, and modern theme for the static site generator Hexo.
 - [🔗Doc](https://blog.zhangruipeng.me/hexo-theme-icarus/categories/)
 - [🔗Demo](https://blog.zhangruipeng.me/hexo-theme-icarus/)
 
-![](https://www.hexothe.me/image/ppoffice_hexo-theme-icarus.gif)
+![](https://www.hexothe.me/image/pre-load/ppoffice_hexo-theme-icarus.png)
 
 <br>
 
@@ -37,7 +37,7 @@ A simple, delicate, and modern theme for the static site generator Hexo.
 - [🔗Doc](http://theme-next.iissnan.com/)
 - [🔗Demo](https://theme-next.org/)
 
-![](https://www.hexothe.me/image/theme-next_hexo-theme-next.gif)
+![](https://www.hexothe.me/image/pre-load/theme-next_hexo-theme-next.png)
 
 <br>
 
@@ -53,7 +53,7 @@ An elegant, Pure & Material Design Theme for Hexo.
 - [🔗Doc](https://material.viosey.com/docs/)
 - [🔗Demo](https://liyin.date/)
 
-![](https://www.hexothe.me/image/viosey_hexo-theme-material.gif)
+![](https://www.hexothe.me/image/pre-load/viosey_hexo-theme-material.png)
 
 <br>
 
@@ -69,7 +69,7 @@ A Material-Design-Style Hexo Theme.
 - [🔗Doc](https://github.com/yscoder/hexo-theme-indigo/wiki)
 - [🔗Demo](https://yscoder.github.io/)
 
-![](https://www.hexothe.me/image/yscoder_hexo-theme-indigo.gif)
+![](https://www.hexothe.me/image/pre-load/yscoder_hexo-theme-indigo.png)
 
 <br>
 
@@ -85,7 +85,7 @@ A responsive, clean and simple Hexo theme for a personal website.
 - [🔗Doc](https://github.com/probberechts/hexo-theme-cactus)
 - [🔗Demo](https://probberechts.github.io/hexo-theme-cactus/)
 
-![](https://www.hexothe.me/image/probberechts_hexo-theme-cactus.gif)
+![](https://www.hexothe.me/image/pre-load/probberechts_hexo-theme-cactus.png)
 
 <br>
 
@@ -101,7 +101,7 @@ This is a Hexo blog theme with Material Design and responsive design.
 - [🔗Doc](https://github.com/blinkfox/hexo-theme-matery/blob/master/README_CN.md)
 - [🔗Demo](https://blinkfox.github.io/)
 
-![](https://www.hexothe.me/image/blinkfox_hexo-theme-matery.gif)
+![](https://www.hexothe.me/image/pre-load/blinkfox_hexo-theme-matery.png)
 
 <br>
 
@@ -117,7 +117,7 @@ A simple and elegant theme for hexo.
 - [🔗Doc](https://github.com/litten/hexo-theme-yilia/wiki)
 - [🔗Demo](http://litten.me/)
 
-![](https://www.hexothe.me/image/litten_hexo-theme-yilia.gif)
+![](https://www.hexothe.me/image/pre-load/litten_hexo-theme-yilia.png)
 
 <br>
 
@@ -133,7 +133,7 @@ A Material-Design-Style Hexo Theme.
 - [🔗Doc](https://github.com/codefine/hexo-theme-mellow/wiki)
 - [🔗Demo](https://hexo.lujingtao.com/)
 
-![](https://www.hexothe.me/image/codefine_hexo-theme-mellow.gif)
+![](https://www.hexothe.me/image/pre-load/codefine_hexo-theme-mellow.png)
 
 <br>
 
@@ -149,7 +149,7 @@ A smart and modern theme for Hexo.
 - [🔗Doc](https://github.com/fi3ework/hexo-theme-archer/blob/master/docs/develop-guide-zh.md)
 - [🔗Demo](http://firework.studio/archer-demo/)
 
-![](https://www.hexothe.me/image/fi3ework_hexo-theme-archer.gif)
+![](https://www.hexothe.me/image/pre-load/fi3ework_hexo-theme-archer.png)
 
 <br>
 
@@ -165,6 +165,6 @@ A gorgeous responsive theme for Hexo blog framework.
 - [🔗Doc](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 - [🔗Demo](https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/)
 
-![](https://www.hexothe.me/image/LouisBarranqueiro_hexo-theme-tranquilpeak.gif)
+![](https://www.hexothe.me/image/pre-load/LouisBarranqueiro_hexo-theme-tranquilpeak.png)
 
 <br>
