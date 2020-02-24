@@ -21,7 +21,7 @@
 - [🔗Doc](https://blog.zhangruipeng.me/hexo-theme-icarus/categories/)
 - [🔗Demo](https://blog.zhangruipeng.me/hexo-theme-icarus/)
 
-![](https://www.voxel.site/image/pre-load/ppoffice_hexo-theme-icarus.png)
+![](https://www.hexothe.me/image/pre-load/ppoffice_hexo-theme-icarus.png)
 
 <br>
 
@@ -37,7 +37,7 @@
 - [🔗Doc](http://theme-next.iissnan.com/)
 - [🔗Demo](https://theme-next.org/)
 
-![](https://www.voxel.site/image/pre-load/theme-next_hexo-theme-next.png)
+![](https://www.hexothe.me/image/pre-load/theme-next_hexo-theme-next.png)
 
 <br>
 
@@ -53,7 +53,7 @@
 - [🔗Doc](https://material.viosey.com/docs/)
 - [🔗Demo](https://liyin.date/)
 
-![](https://www.voxel.site/image/pre-load/viosey_hexo-theme-material.png)
+![](https://www.hexothe.me/image/pre-load/viosey_hexo-theme-material.png)
 
 <br>
 
@@ -69,7 +69,7 @@
 - [🔗Doc](https://github.com/yscoder/hexo-theme-indigo/wiki)
 - [🔗Demo](https://yscoder.github.io/)
 
-![](https://www.voxel.site/image/pre-load/yscoder_hexo-theme-indigo.png)
+![](https://www.hexothe.me/image/pre-load/yscoder_hexo-theme-indigo.png)
 
 <br>
 
@@ -85,7 +85,7 @@
 - [🔗Doc](https://github.com/probberechts/hexo-theme-cactus)
 - [🔗Demo](https://probberechts.github.io/hexo-theme-cactus/)
 
-![](https://www.voxel.site/image/pre-load/probberechts_hexo-theme-cactus.png)
+![](https://www.hexothe.me/image/pre-load/probberechts_hexo-theme-cactus.png)
 
 <br>
 
@@ -101,7 +101,7 @@
 - [🔗Doc](https://github.com/blinkfox/hexo-theme-matery/blob/master/README_CN.md)
 - [🔗Demo](https://blinkfox.github.io/)
 
-![](https://www.voxel.site/image/pre-load/blinkfox_hexo-theme-matery.png)
+![](https://www.hexothe.me/image/pre-load/blinkfox_hexo-theme-matery.png)
 
 <br>
 
@@ -117,7 +117,7 @@
 - [🔗Doc](https://github.com/litten/hexo-theme-yilia/wiki)
 - [🔗Demo](http://litten.me/)
 
-![](https://www.voxel.site/image/pre-load/litten_hexo-theme-yilia.png)
+![](https://www.hexothe.me/image/pre-load/litten_hexo-theme-yilia.png)
 
 <br>
 
@@ -133,7 +133,7 @@ Material Design 风格的 Hexo 主题。
 - [🔗Doc](https://github.com/codefine/hexo-theme-mellow/wiki)
 - [🔗Demo](https://hexo.lujingtao.com/)
 
-![](https://www.voxel.site/image/pre-load/codefine_hexo-theme-mellow.png)
+![](https://www.hexothe.me/image/pre-load/codefine_hexo-theme-mellow.png)
 
 <br>
 
@@ -149,7 +149,7 @@ Material Design 风格的 Hexo 主题。
 - [🔗Doc](https://github.com/fi3ework/hexo-theme-archer/blob/master/docs/develop-guide-zh.md)
 - [🔗Demo](http://firework.studio/archer-demo/)
 
-![](https://www.voxel.site/image/pre-load/fi3ework_hexo-theme-archer.png)
+![](https://www.hexothe.me/image/pre-load/fi3ework_hexo-theme-archer.png)
 
 <br>
 
@@ -165,6 +165,6 @@ Material Design 风格的 Hexo 主题。
 - [🔗Doc](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 - [🔗Demo](https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/)
 
-![](https://www.voxel.site/image/pre-load/LouisBarranqueiro_hexo-theme-tranquilpeak.png)
+![](https://www.hexothe.me/image/pre-load/LouisBarranqueiro_hexo-theme-tranquilpeak.png)
 
 <br>
