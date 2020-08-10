@@ -7,7 +7,7 @@
 
 🌟根据 Github 影响力和实际使用体验筛选出 10 个精致的 Hexo 主题。
 
-去网站 [HexoThe.me](https://hexothe.me) 中阅读。
+去网站 [TopTenHexoTheme](https://hexo.voxel.site) 中阅读。
 
 ## 1 Icarus
 
