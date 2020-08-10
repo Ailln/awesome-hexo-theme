@@ -7,7 +7,7 @@
 
 🌟We selected the top 10 delicate hexo theme, based on Github influence and practical experience.
 
-See it in website [HexoThe.me](https://hexothe.me).
+See it in website [TopTenHexoTheme](https://hexo.voxel.site).
 
 ## 1 Icarus
 
